@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_1</folder>
+	<filename>sign_20.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\resized_1\sign_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>39</ymin>
+			<xmax>435</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

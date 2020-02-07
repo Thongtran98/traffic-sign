@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>resized_1</folder>
+	<filename>sign_63.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\resized_1\sign_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nohonk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>215</ymin>
+			<xmax>338</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

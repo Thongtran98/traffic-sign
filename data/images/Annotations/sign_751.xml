@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_3</folder>
+	<filename>sign_751.jpg</filename>
+	<path>C:\resized_3\resized_3\sign_751.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nohonk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>191</ymin>
+			<xmax>295</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_2</folder>
+	<filename>sign_478.jpg</filename>
+	<path>C:\Users\lyc\Desktop\windows_v1.5.2\resized_2\sign_478.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>429</ymin>
+			<xmax>254</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

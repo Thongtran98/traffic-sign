@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_2</folder>
+	<filename>sign_431.jpg</filename>
+	<path>C:\Users\lyc\Desktop\windows_v1.5.2\resized_2\sign_431.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nohonk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>251</ymin>
+			<xmax>320</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

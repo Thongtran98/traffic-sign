@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_3</folder>
+	<filename>sign_634.jpg</filename>
+	<path>C:\resized_3\resized_3\sign_634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>174</ymin>
+			<xmax>171</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

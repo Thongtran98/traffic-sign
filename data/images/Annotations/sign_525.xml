@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_2</folder>
+	<filename>sign_525.jpg</filename>
+	<path>C:\Users\lyc\Desktop\windows_v1.5.2\resized_2\sign_525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nohonk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>1</ymin>
+			<xmax>202</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

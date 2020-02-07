@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_3</folder>
+	<filename>sign_763.jpg</filename>
+	<path>C:\resized_3\resized_3\sign_763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>164</ymin>
+			<xmax>354</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

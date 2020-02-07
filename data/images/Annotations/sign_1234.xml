@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_5</folder>
+	<filename>sign_1234.jpg</filename>
+	<path>D:\resized-signs-5\resized_5\sign_1234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>293</ymin>
+			<xmax>353</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

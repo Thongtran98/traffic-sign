@@ -1,0 +1,5 @@
+./input\crosswalk.png 125 130 435 440 5 
+./input\forward.png 133 133 441 441 0 
+./input\nohonk.png 144 149 416 421 4 
+./input\noparking.png 30 35 500 500 3 
+./input\turnright.png 119 128 408 417 2 
